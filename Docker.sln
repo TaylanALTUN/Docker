@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDocker", "ConsoleDocker\ConsoleDocker.csproj", "{B0486EF6-2072-42F0-960E-DE0A56610860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0486EF6-2072-42F0-960E-DE0A56610860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0486EF6-2072-42F0-960E-DE0A56610860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0486EF6-2072-42F0-960E-DE0A56610860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0486EF6-2072-42F0-960E-DE0A56610860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B71BB2A-A7FB-4FF2-8516-8C35DD3129FE}
+	EndGlobalSection
+EndGlobal
